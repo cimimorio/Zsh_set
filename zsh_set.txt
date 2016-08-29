@@ -1,0 +1,11 @@
+1.安装最新zsh
+ brew install zsh
+2.安装oh my zsh
+ brew install on my zsh(not sure)
+3.切换主题到(agnoster)
+ 修改.zshrc文件
+4.下载autojump
+ brew install autojump
+5.重启
+ sudo reboot
+
